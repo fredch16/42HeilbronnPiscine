@@ -1,0 +1,1 @@
+echo "obase=13; ibase=10; $(echo "$(echo "obase=10; ibase=5; $(echo "$FT_NBR1" | tr "\'\\\\\"\?\!" "01234")" | bc) + $(echo "obase=10; ibase=5; $(echo "$FT_NBR2" | tr "mrdoc" "01234")" | bc)" | bc)" | bc | tr "0123456789ABC" "gtaio luSnemf"
