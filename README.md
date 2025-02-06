@@ -2,8 +2,6 @@
 
 This repository contains all the projects I completed during my piscine at 42 Heilbronn. Below are the scores for each project.
 
-![Piscine Scores](Piscine.png)
-
 # Projects Status
 
 | Project | Final grade | All done |
@@ -27,3 +25,5 @@ This repository contains all the projects I completed during my piscine at 42 He
 | [Rush00](https://github.com/fredch16/42HeilbronnPiscine/tree/main/Rush00) | :x: | ✅ |
 | [Rush01](https://github.com/fredch16/42HeilbronnPiscine/tree/main/Rush01) | :x: | ✅ |
 | [BSQ](https://github.com/fredch16/42HeilbronnPiscine/tree/main/BSQ) | 75% | ✅ |
+
+![Piscine Scores](Piscine.png)
